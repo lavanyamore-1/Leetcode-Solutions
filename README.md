@@ -1,5 +1,4 @@
-# Leetcode-Solutions
-My DSA and LeetCode problem-solving solutions in java
+
 # LeetCode Solutions (Java)
 
 This repository contains my solutions to LeetCode problems implemented in Java.
