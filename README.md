@@ -1,4 +1,3 @@
-
 # LeetCode Solutions (Java)
 
 This repository contains my solutions to LeetCode problems implemented in Java.
@@ -10,29 +9,33 @@ This repository contains my solutions to LeetCode problems implemented in Java.
 * LinkedList
 * SlidingWindow
 * DynamicProgramming
+* BinarySearch
 
 ## Progress
 
 | Difficulty | Solved |
 | ---------- | ------ |
 | Easy       | 3      |
-| Medium     | 5      |
-| Hard       | 1      |
-| Total      | 9      |
+| Medium     | 8      |
+| Hard       | 2      |
+| **Total**  | **13** |
 
 ## Solved Problems
 
-| #    | Problem                                        | Difficulty | Topic               |
-| ---- | ---------------------------------------------- | ---------- | ------------------- |
-| 1    | Two Sum                                        | Easy       | Array, HashMap      |
-| 2    | Add Two Numbers                                | Medium     | Linked List         |
-| 3    | Longest Substring Without Repeating Characters | Medium     | Sliding Window      |
-| 8    | String to Integer (atoi)                       | Medium     | String              |
-| 9    | Palindrome Number                              | Easy       | Math                |
-| 10   | Regular Expression Matching                    | Hard       | Dynamic Programming |
-| 11   | Container With Most Water                      | Medium     | Two Pointers        |
-| 12   | Integer to Roman                               | Medium     | String, Greedy      |
-| 2144 | Minimum Cost of Buying Candies With Discount   | Easy       | Array, Greedy       |
+| #    | Problem                                        | Difficulty | Topic                |
+| ---- | ---------------------------------------------- | ---------- | -------------------- |
+| 1    | Two Sum                                        | Easy       | Array, HashMap       |
+| 2    | Add Two Numbers                                | Medium     | Linked List          |
+| 3    | Longest Substring Without Repeating Characters | Medium     | Sliding Window       |
+| 4    | Median of Two Sorted Arrays                    | Hard       | Array, Binary Search |
+| 5    | Longest Palindromic Substring                  | Medium     | String               |
+| 6    | Zigzag Conversion                              | Medium     | String               |
+| 8    | String to Integer (atoi)                       | Medium     | String               |
+| 9    | Palindrome Number                              | Easy       | Math                 |
+| 10   | Regular Expression Matching                    | Hard       | Dynamic Programming  |
+| 11   | Container With Most Water                      | Medium     | Two Pointers         |
+| 12   | Integer to Roman                               | Medium     | String, Greedy       |
+| 2144 | Minimum Cost of Buying Candies With Discount   | Easy       | Array, Greedy        |
 
 ## Goals
 
@@ -43,5 +46,6 @@ This repository contains my solutions to LeetCode problems implemented in Java.
 
 ## Language
 
-Java
+* Java
+
 
